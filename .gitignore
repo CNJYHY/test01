@@ -1,6 +1,12 @@
 Library/
-Logs/
-Packages/
+Temp/
 .vsconfig/
+Logs/
 UserSettings/
-*text0830.sln
+Packages/
+*.sln
+*.csproj
+*.sln
+*.serprefs
+*.unityproj
+*.DS_Store
