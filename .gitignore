@@ -1,8 +1,6 @@
 Library/
 Logs/
 Packages/
-.vscode/
+.vsconfig/
 UserSettings/
-*.unityproj
-*.sln
-*.csproj
+*text0830.sln
