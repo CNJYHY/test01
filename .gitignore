@@ -1,5 +1,8 @@
 Library/
 Logs/
 Packages/
+.vscode/
 UserSettings/
 *.unityproj
+*.sln
+*.csproj
